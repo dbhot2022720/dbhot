@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div>hello dbhot</div>
-    <div>斗地主</div>
+    <div><div>斗地主</div><div>斗地主功能</div></div>
   </div>
 </template>
 
